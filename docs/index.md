@@ -1,6 +1,6 @@
 ## Narrazzione
 
-bla bla asd
+bla bla asd asd
 
 
 ### Sotto
