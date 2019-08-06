@@ -13,6 +13,7 @@ theme:
     primary: 'light green'
     accent: 'green'
 markdown_extensions:
+  - attr_list
   - codehilite
   - footnotes
   - admonition
@@ -43,5 +44,8 @@ extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 nav:
   - Home: index.md
-  - Test:
-    - Sub: test.md
+  - Bio: bio.md
+  - Storie:
+    - Narrazione: narrazione.md
+    - Cene: cene.md
+  - Presentazione libri: libri.md
