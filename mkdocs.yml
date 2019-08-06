@@ -10,8 +10,8 @@ theme:
   logo: 'img/logo.svg'
   language: 'it'
   palette:
-    primary: 'light green'
-    accent: 'green'
+    primary: 'red'
+    accent: 'red'
 markdown_extensions:
   - attr_list
   - codehilite
