@@ -1,0 +1,47 @@
+site_name: Narrazione
+site_url: 'http://narrazione.github.io/'
+site_description: "TODO"
+# strict: true
+docs_dir: 'docs'
+remote_branch: 'master'
+theme:
+  name: material
+  favicon: 'favicon.ico'
+  logo: 'img/logo.svg'
+  language: 'it'
+  palette:
+    primary: 'light green'
+    accent: 'green'
+markdown_extensions:
+  - codehilite
+  - footnotes
+  - admonition
+  - toc:
+      permalink: true
+  - markdown.extensions.smarty
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      repo_url_shortener: true
+      user: polyfem
+      repo: polyfem
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+nav:
+  - Home: index.md
+  - Test:
+    - Sub: test.md
