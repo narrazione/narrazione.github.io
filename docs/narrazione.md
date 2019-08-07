@@ -1,6 +1,8 @@
+
+![](img/sequenza.png)
+
 Ho gi&agrave; raccontato storie diverse: tradizionali, etniche, moderne, per bambini, ragazzi, adulti... 
 
-![](img/fiorista.jpg){: style="width:200px;"}
 
 ## BIBLIOTECHE
 

@@ -12,6 +12,9 @@ theme:
   palette:
     primary: 'red'
     accent: 'red'
+  font:
+    text: 'Mali'
+    code: 'Roboto Mono'
 markdown_extensions:
   - attr_list
   - codehilite
@@ -44,7 +47,7 @@ extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 nav:
   - Home: index.md
-  - Bio: bio.md
+  - Biografia: bio.md
   - Storie:
     - Narrazione: narrazione.md
     - Cene: cene.md
