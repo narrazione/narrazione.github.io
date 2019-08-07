@@ -1,3 +1,2 @@
-![cene con storie](img/cene.jpg){: style="width:200px;"}
+![](img/cene.png)
 
-tesd
