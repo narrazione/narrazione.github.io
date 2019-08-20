@@ -23,8 +23,11 @@ Racconti specifici:
 
 Dal 2002 la notte del racconto alla scuola media di Biasca
 Doposcuola Sorengo
-Liceo di Zurigo
+Liceo di Biasca
 
+<iframe width="420" height="315"
+  src="https://www.youtube.com/embed/3XfKCpA2L1Y">
+</iframe>
 
 ## FESTE PRIVATE
 
