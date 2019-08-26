@@ -48,7 +48,8 @@ extra_javascript:
 nav:
   - Home: index.md
   - Biografia: bio.md
-  - Storie:
+  - Interventi:
     - Narrazione: narrazione.md
     - Cene: cene.md
-  - Presentazione libri: libri.md
+    - Animazione alla lettura: libri.md
+    

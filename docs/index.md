@@ -16,7 +16,7 @@ Tanto frugale &egrave; il Carro
 
 Che porta l&apos; Anima dell&apos; Uomo. &quot;  
 
-Emily Dickinson
+Emily Dickinson, 1263
 
 
 <br>

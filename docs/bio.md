@@ -17,10 +17,9 @@ Sono nata l'11 marzo a Mendrisio.
 
 In questi anni ho partecipato a corsi di
 
-narrazione con:                            
-- Confabula -Mirella Guglielmoni -Claudio Cavalli -Giuseppe Gargiulo -Betty Colombo 
+narrazione con: - Confabula -Mirella Guglielmoni -Claudio Cavalli -Giuseppe Gargiulo -Betty Colombo 
 -Roberto Anglisani
 
 promozione alla lettura con:
-
-- Associazione Hamelin -Caterina Ramonda -Gabriela Zucchini -Vera Salton -Matteo Biagi
+- Associazione Hamelin -Caterina Ramonda -Gabriela Zucchini -Vera Salton 
+-Matteo Biagi
