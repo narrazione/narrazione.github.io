@@ -1,22 +1,31 @@
 ![](img/lupo.png){: style="width:200px; float: left; margin-right: 10px;"}
 
-Ho parecchie storie in repertorio, uso questo termine perch&eacute; fiaba si limita ad un certo tipo di racconto tradizionale per bambini, quindi preferisco un vocabolo p&ugrave; generale.
+&quot;Non c&apos;&egrave; Vascello che eguagli un Libro
+
+Per portarci in Terre lontane
+
+N&egrave; Corsieri che eguaglino una Pagina
+
+Di scalpitante Poesia
+
+&Egrave; un Viaggio che anche il pi&ugrave; povero pu&ograve; fare
+
+Senza paura di Pedaggio
+
+Tanto frugale &egrave; il Carro
+
+Che porta l&apos; Anima dell&apos; Uomo. &quot;  
+
+Emily Dickinson
+
 
 <br>
-<br>
-<br>
-<br>
-<br>
-
-Le divido per tema per esempio:
-
-- Natale,
-- animali,
-- notte del racconto, e
-- per et&agrave;. 
+L&apos;ascolto &egrave;, per me, un viaggio condiviso.
 
 
-Sono sempre alla continua ricerca di nuove storie: cerco, leggo, mi diverto, scopro, mi piacciono le sfide e cambiare genere...
+
+Sono alla continua ricerca di nuove storie: leggo, mi diverto, scopro. 
+
+Mi piacciono le sfide, cambiare genere, adatto le scelte agli ascoltatori, dai piccoli agli adulti, e alla situazione.
 
 
-Per narrare, la storia deve innanzittutto piacere a me, deve portarmi qualcosa, a questo punto ho voglia di dividere con gli altri questo piacere, questa scoperta.
