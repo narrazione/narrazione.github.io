@@ -48,10 +48,9 @@ Doposcuola Sorengo
 Liceo di Biasca
 
 
-## FESTE PRIVATE
+## EVENTI
 
-Per aziende, gruppi genitori e associazioni 
-Alpe di Firinescio, animazione di un pomeriggio con racconti e attivit&agrave; sul tema dei 5 sensi
+Per aziende, gruppi genitori e associazioni
 
 ## EVENTI PARTICOLARI
 | anno | nome |
