@@ -1,4 +1,4 @@
-![](img/cene.png)
+![](img/tavola.png)
 
         Benvenuto amico,
 

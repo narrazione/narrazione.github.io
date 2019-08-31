@@ -1,4 +1,6 @@
-![](img/lupo.png){: style="width:200px; float: left; margin-right: 10px;"}
+![](img/lupo.png){: style="width:150px; float: left; margin-right: 10px;"}
+
+
 
 &quot;Non c&apos;&egrave; Vascello che eguagli un Libro
 
@@ -7,6 +9,8 @@ Per portarci in Terre lontane
 N&egrave; Corsieri che eguaglino una Pagina
 
 Di scalpitante Poesia
+
+![](img/valigia.png){: style="width:200px; float: right; margin-right: 30px;"}
 
 &Egrave; un Viaggio che anche il pi&ugrave; povero pu&ograve; fare
 

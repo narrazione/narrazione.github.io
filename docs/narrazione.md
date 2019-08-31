@@ -1,6 +1,3 @@
-<iframe width="420" height="315"
-  src="https://www.youtube.com/embed/3XfKCpA2L1Y">
-</iframe>
 
 
 
@@ -15,7 +12,7 @@ Incontri di narrazione secondo la richiesta dei bibliotecari.
 Animazioni con giochi e attivit&agrave;,alternati a storie per eventi particolari.
 
 ## SCUOLE
-![](img/sequenza.png)
+![](img/cri.png)
 
 Racconti specifici, a richiesta del docente, inseriti nel programma:
 
@@ -36,7 +33,7 @@ Dopo scuola
     - Emozioni
                                                   
 ## MUSEI
-![](img/sequenza.png)
+![](img/esterno.png)
 
 Per musei, mostre ed esposizioni preparo storie inerenti alla manifestazione
 
@@ -49,13 +46,7 @@ Liceo di Biasca
 
 
 ## EVENTI
+![](img/eventi.png)
 
 Per aziende, gruppi genitori e associazioni
 
-## EVENTI PARTICOLARI
-| anno | nome |
-|------|------|
-|2002 |  Esposizione nazionale, Yverdon e Morat nel ambito della societ&agrave; svizzera delle fiabe |
-|2003 |  Thun, giornata nazionale della societ&agrave; delle fiabe |
-|2003 |  Arzo, Festival del racconto Corte dei Miracoli |
-|2006 |  Lugano, Trasguardi, Biblioteca di Besso |

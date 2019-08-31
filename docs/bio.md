@@ -1,3 +1,5 @@
+![](img/biografia.png){: style="width:200px; float: right; margin-right: 30px;"}
+
 Sono nata l'11 marzo a Mendrisio.
 #Da sempre appassionata lettrice
 
