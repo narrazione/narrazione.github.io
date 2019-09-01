@@ -47,10 +47,12 @@ extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 nav:
   - Home: index.md
-  - Biografia: bio.md
+  - Cristina Galfetti Schneider: bio.md
   - Interventi:
     - Narrazione: narrazione.md
     - Cene: cene.md
-    - Leggere che passione !: libri.md  
-  - Eventi: eventi.md
+    - Il piacere di leggere: libri.md
+  - Video: cri.md
+  - Presenze: eventi.md
+  
   - Contatti: contatti.md

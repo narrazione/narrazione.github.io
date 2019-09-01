@@ -1,4 +1,6 @@
 ![](img/presentazione.png)
-Quel che conta di un libro &egrave; che diventi un'esperienza e l'esperienza non si misura secondo la quantit&agrave; ma l'intensit&agrave;. Per conoscere i libri bisogna amarli.
+Uno dei miei intenti &egrave; contagiare i ragazzi con la passione per la lettura. 
 
-Giuseppe Pontiggia
+Le mie scelte di libri si basano su corsi di aggiornamento (Hamelin, C. Ramonda, V. Salton, M. Biagi, F. Rotondo, G. Zucchini ), su festival di letteratura e sull'esperienza nel comitato dell'Associazione Albatros, che organizza il festival di letteratura per Ragazzi a Bellinzona "Storie Controvento".
+
+Dopo attenta lettura propongo delle bibliografie ai bibliotecari di Scuola Media o ai docenti interassati. Le bibliografie possono essere a tema: avventura, amore, poesia, conflitti...,o sulle ultime novità dell'editoria. Sono però sempre adattate all'età dei ragazzi, tenendo conto che in una classe ci sono diversi tipi di lettori e non!
