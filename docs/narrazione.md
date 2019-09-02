@@ -5,7 +5,7 @@ Tradizionali, etniche, moderne, per bambini, ragazzi, adulti...
 
 
 ## BIBLIOTECHE
-![](img/sequenza.png)
+![](img/biblio.png)
 
 Incontri di narrazione secondo la richiesta dei bibliotecari. 
 <br>
@@ -16,24 +16,24 @@ Animazioni con giochi e attivit&agrave;,alternati a storie per eventi particolar
 
 Racconti specifici, a richiesta del docente, inseriti nel programma:
 
-- per allievi di scuola media, per esempio: 
+- per allievi di scuola media: 
     - Novelle
     - Miti
-    - Emozioni
+    - Amore
     - Pofessioni...
-- per allievi di scuola elementare, per esempio: 
+- per allievi di scuola elementare: 
     - Classici
     - Miti
     - Animali
     - Fiabe...
 <br>
 Dopo scuola 
-- per allievi di scuola dell’infanzia per esempio: 
+- per allievi di scuola dell’infanzia: 
     - Amicizia
-    - Emozioni
+    - Emozioni...
                                                   
 ## MUSEI
-![](img/esterno.png)
+![](img/sequenza.png)
 
 Per musei, mostre ed esposizioni preparo storie inerenti alla manifestazione
 
@@ -46,7 +46,18 @@ Liceo di Biasca
 
 
 ## EVENTI
-![](img/eventi.png)
+![](img/pura.png)
 
 Per aziende, gruppi genitori e associazioni
+
+## EVENTI CON ANIMAZIONI
+![](img/attività.png)
+Alterno narrazioni con attività:
+
+   - 5 sensi
+   - Di tutti i colori
+   - Quante emozioni
+   - Per filo e per segno
+   - Storie di puzze e di profumi
+   - 4 elementi...
 
