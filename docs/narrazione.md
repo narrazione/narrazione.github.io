@@ -16,21 +16,16 @@ Animazioni con giochi e attivit&agrave;,alternati a storie per eventi particolar
 
 Racconti specifici, a richiesta del docente, inseriti nel programma:
 
-- per allievi di scuola media: 
-    - Novelle
-    - Miti
-    - Amore
-    - Pofessioni...
-- per allievi di scuola elementare: 
-    - Classici
-    - Miti
-    - Animali
-    - Fiabe...
+- Scuola Media: 
+    - Novelle, Miti, Amore, Pofessioni, Scelte, Conflitti,...
+
+- Scuola Elementare: 
+    - Classici, Miti, Animali, Fiabe...
 <br>
-Dopo scuola 
-- per allievi di scuola dell’infanzia: 
-    - Amicizia
-    - Emozioni...
+    - Dopo scuola 
+
+- Scuola dell’Infanzia: 
+    - Amicizia, Emozioni...
                                                   
 ## MUSEI
 ![](img/sequenza.png)
