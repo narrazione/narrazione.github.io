@@ -12,7 +12,7 @@
 ## PRESENZE PASSATE
 | anno | nome |
 |------|------|
-|2002 |  Esposizione nazionale, Yverdon e Morat nel ambito della societ&agrave; svizzera delle fiabe |
-|2003 |  Thun, giornata nazionale della societ&agrave; delle fiabe |
+|2002 |  Esposizione nazionale, Yverdon e Morat nel ambito della società svizzera delle fiabe |
+|2003 |  Thun, giornata nazionale della società delle fiabe |
 |2003 |  Arzo, Festival del racconto Corte dei Miracoli |
 |2006 |  Lugano, Trasguardi, Biblioteca di Besso |

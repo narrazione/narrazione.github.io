@@ -1,5 +1,5 @@
 ![](img/presentazione.png)
-Uno dei miei intenti &egrave; contagiare i ragazzi con la passione per la lettura. 
+Uno dei miei intenti è contagiare i ragazzi con la passione per la lettura. 
 
 Le mie scelte di libri si basano su corsi di aggiornamento (Hamelin, C. Ramonda, V. Salton, M. Biagi, F. Rotondo, G. Zucchini ), su festival di letteratura e sull'esperienza nel comitato dell'Associazione Albatros, che organizza il festival di letteratura per Ragazzi a Bellinzona "Storie Controvento".
 

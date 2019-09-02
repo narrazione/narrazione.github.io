@@ -1,3 +1,3 @@
-Vi risponder&ograve; con piacere
+Vi risponderò con piacere
 
 cri_sch@yahoo.it
