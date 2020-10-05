@@ -5,7 +5,7 @@ Sono nata l'11 marzo a Mendrisio.
 
 
 - 2015 membro del comitato dell'associazione Albatros, che organizza il festival di letteratura per ragazzi "[Storie Controvento](http://www.storiecontrovento.ch/)"
-- 2010 Organizzo con mio marito delle "Cene con storie"
+- 2010 Organizzo con mio marito delle " "
 - 2002 Sono narratrice, come mi definisco: raccontastorie, per biblioteche, musei e eventi.
 - 2002 Animatrice alla lettura nelle scuole medie del Cantone
 - 1990 nasce la mia passione per la narrazione e frequento diversi corsi.
@@ -24,4 +24,4 @@ narrazione con: - Confabula -Mirella Guglielmoni -Claudio Cavalli -Giuseppe Garg
 
 promozione alla lettura con:
 - Associazione Hamelin -Caterina Ramonda -Gabriela Zucchini -Vera Salton
--Matteo Biagi
+- Matteo Biagi
