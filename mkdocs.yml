@@ -48,10 +48,9 @@ extra_javascript:
 nav:
   - Home: index.md
   - Cristina Galfetti Schneider: bioII.md
+  - Cene con storie: cene.md
   - Interventi:
     - Narrazione: narrazione.md
-    - Cene con storie: cene.md
     - Il piacere di leggere: libri.md
   - Video: cri.md
-  - Presenze: eventi.md
   - Contatti: contatti.md
